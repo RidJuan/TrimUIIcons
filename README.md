@@ -22,10 +22,10 @@ This repository contains custom device icons for the TrimUI Brick *(other device
 
    ```ini
    [autorun]
-   icon = Black.ico
+   icon = Colour.ico
    label = MinUI Brick
    ```
-   *Note: Change `MinUI Brick` to your preferred display name for the microSD card*
+   Note: Change `MinUI Brick` to your preferred display name for the microSD card
 
 4. Save the `autorun.inf` file
 5. When you reinsert the microSD card, it should now display the custom icon
