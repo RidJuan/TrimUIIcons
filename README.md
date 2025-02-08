@@ -7,7 +7,7 @@ Custom device icons for the TrimUI Brick (TG3040) that display when connecting t
 
 ## Overview
 
-This repository contains custom device icons for the TrimUI Brick *(other devices coming soon)*. When you insert your TrimUI Device's microSD card into a PC, these icons will make it easily identifiable in file explorer with a custom device icon instead of the default generic drive icon.
+This repository contains custom device icons for the TrimUI Brick & Smart Pro. When you insert your TrimUI Device's microSD card into a PC, these icons will make it easily identifiable in file explorer with a custom device icon instead of the default generic drive icon.
 
 ## Contents
 
@@ -17,7 +17,7 @@ This repository contains custom device icons for the TrimUI Brick *(other device
 
 ## Windows Installation
 
-1. Navigate to `TrimUI Icons\Brick\Colour` folder
+1. Navigate to `TrimUI Icons\Device\Colour` folder
 2. Copy both the `.ico` file and `autorun.inf` from this folder to your device's microSD card root directory
 3. Edit `autorun.inf` in your preferred text editor:
 
@@ -26,7 +26,7 @@ This repository contains custom device icons for the TrimUI Brick *(other device
    icon = Colour.ico
    label = MinUI Brick
    ```
-   Note: Change `MinUI Brick` to your preferred display name for the microSD card
+   Note: Change `MinUI Brick` or `Crossmix Smart Pro` to your preferred display name for the microSD card
 
 4. Save the `autorun.inf` file
 5. When you reinsert the microSD card, it should now display the custom icon
