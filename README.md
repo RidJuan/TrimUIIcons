@@ -1,5 +1,5 @@
 
-# TrimUI Custom Icons
+# TrimUI Custom Device Icons
 
 Custom device icons for the TrimUI Brick (TG3040) that display when connecting the microSD card to a PC.
 
