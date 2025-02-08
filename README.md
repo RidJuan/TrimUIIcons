@@ -13,7 +13,12 @@ This repository contains custom device icons for the TrimUI Brick & Smart Pro. W
 
 - `Colour.ico` - Themed TrimUI device icon (32x32 to 256x256)
 - `autorun.inf` - Configuration file for Windows icon display
-- `Stock` - .png images of the devices
+- `Stock` - `.png` images of the devices
+
+## Download
+1. Navigate to [releases](https://github.com/RidJuan/TrimUIIcons/releases)
+2. Download the latest release `.zip` file
+3. Extract the `.zip` file
 
 ## Windows Installation
 
