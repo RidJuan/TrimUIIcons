@@ -51,7 +51,7 @@ This repository contains custom device icons for the TrimUI Brick & Smart Pro. W
 - MacOS
 - Windows 11
 - TrimUI Brick (TG3040)
-- TrimUI Smart Pro (TG5040) - *Coming Soon*
+- TrimUI Smart Pro (TG5040)
 
 ## Support
 
